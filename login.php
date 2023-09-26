@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="modal">
-        <div class="container">
+        <div class="container"> 
             <h1>Login</h1>
             <form method="POST" action="proses_login.php">
                 <label>Username</label><br>
